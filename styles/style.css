@@ -1,0 +1,18 @@
+
+.merriweather-head {
+  font-family: "Merriweather";
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.bannerimg{
+    width:1320 px;
+    height:600px;
+    margin:50px 140px;
+}
+.bannerhead{
+    
+}
